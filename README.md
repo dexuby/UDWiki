@@ -1,2 +1,2 @@
 # UltimateDrugs
-Wiki: https://github.com/Dexuby/UltimateDrugs/wiki
+Wiki: https://github.com/Dexuby/UltimateDrugsWiki/wiki
